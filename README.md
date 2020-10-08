@@ -2,6 +2,7 @@
 ```
 Sample Input 1
 
+Sample Input: yyyy/mm/dd USD 1000 | Stop by [Enter]
 2019/01/02 USD 100
 2019/01/04 USD 23
 
@@ -9,11 +10,12 @@ Sample Input 1
 
 Sample Output 1
 
-3794
+Total Equal to $3794 NTD.
 ```
 ```
 Sample Input 2
 
+Sample Input: yyyy/mm/dd USD 1000 | Stop by [Enter]
 2019/03/25 JPY 1000
 2019/03/26 JPY 600
 2019/04/25 EUR 120
@@ -25,5 +27,5 @@ Sample Input 2
 
 Sample Output 2
 
-32026
+Total Equal to $32026 NTD.
 ```
