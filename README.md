@@ -1,6 +1,8 @@
 # Crawling Currency Rate from Bank of Taiwan by Pyquery
 
 
+![image](https://github.com/Terence0101/bot-currency-pyquery-crawling/blob/main/BoT%20diagram.jpg)
+
 ```
 Sample Input 1
 
