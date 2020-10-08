@@ -1,5 +1,7 @@
 # Crawling Currency Rate from Bank of Taiwan by Pyquery
 
+In this crawling programming, we make this program can automatically convert any currency to NTD.  
+So people can just input specified date, currency, and amount. And this programming will direct to the row straightly.  
 
 ![image](https://github.com/Terence0101/bot-currency-pyquery-crawling/blob/main/BoT%20diagram.jpg)
 
